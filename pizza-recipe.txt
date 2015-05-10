@@ -1,0 +1,5 @@
+1. Call and order the pizza. It tastes better when you don't have to be the one cooking it. 
+
+2. if (your_age >= 21 && is_designated_driver == False)
+      Serve with a cold can of beer.
+
