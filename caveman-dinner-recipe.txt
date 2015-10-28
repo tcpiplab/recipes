@@ -1,5 +1,6 @@
 Ingredients:
   Meat
+  Weapon
 
 Preparation:
   Tear a handful of the meat from the carcass of the prey and eat the meat.
