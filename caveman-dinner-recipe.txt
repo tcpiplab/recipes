@@ -8,4 +8,6 @@ Preparation:
 
 Extra Flavor (optional)
   Alternatively, rather than removing the meat from the carcass of the prey
-  yourself, you could steal the meat from another cavemen, then eat the meat.
+  yourself, you could do the following steps:
+    1. Hit another caveman on the head.
+    2. Steal the meat from the other caveman, then eat the meat.
