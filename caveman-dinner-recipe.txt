@@ -1,6 +1,6 @@
 Ingredients:
-  Meat (of prey animal)
-  1 Large rock or club, suitable as a weapon (See optional steps below.)
+  Meat (of prey animal*)
+  Large rock or club, suitable as a weapon (See optional steps below.)
 
 Preparation:
   Tear a handful of the meat from the carcass of the prey and eat the meat.
@@ -12,3 +12,6 @@ Optional Steps:
     1. Use the rock or club to hit another caveman on the head. Repeat, if
     necessary, until he's subdued.
     2. Steal the meat from the other caveman, then eat the meat.
+
+*The animal must not be human or human-like. I.e, Homo neanderthalensis is not
+ an appropriate "prey animal" for this recipe.
