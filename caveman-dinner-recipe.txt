@@ -1,5 +1,5 @@
 Ingredients:
-  Meat (of prey animal)
+  Meat (of prey animal*)
 
 Tools:
   1 Hand Axe of sharp flint, obsidian, or other hard stone.
@@ -15,3 +15,6 @@ Optional Steps:
     1. Use the rock or club to hit another caveman on the head. Repeat, if
     necessary, until he's subdued.
     2. Steal the meat from the other caveman, then eat the meat.
+
+*The animal must not be human or human-like. I.e, Homo neanderthalensis is not
+ an appropriate "prey animal" for this recipe.
