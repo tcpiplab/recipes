@@ -1,3 +1,3 @@
 # Recipes
 
-This repository contains recipes for some foods I like.
+This repository contains many edits and merges, the result of me playing with how to resolve conflicts.
